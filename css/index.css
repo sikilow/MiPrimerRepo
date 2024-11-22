@@ -4,3 +4,11 @@ h1{
 body{
     background-color: aqua;
 }
+.img{
+    width: 300px;
+    height: 300px;
+}
+.img img{
+    width: 300px;
+    height: 300px;
+}
